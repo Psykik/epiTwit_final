@@ -1,2 +1,2 @@
 # epiTwitter
- Twitter NLP for COVID Surveillacne
+ Twitter NLP for COVID Surveillance
